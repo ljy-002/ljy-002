@@ -8,40 +8,40 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on :
-  >> Python algorithm
-  >> HTML page creation
-  >>How to make more friends
+>> Python algorithm
+>> HTML page creation
+>>How to make more friends
 - 🌱 I’m currently learning :
-  >>Science
-  >>Liberal Arts
+>>Science
+>>Liberal Arts
 - 👯 I’m looking to collaborate on :
-  >>[GITI Technical Support](https://ljy-002.github.io/gushi.github.io/gushi/)
+>>[GITI Technical Support](https://ljy-002.github.io/gushi.github.io/gushi/)
 - 🤔 I’m looking for help with :
-  >>[GITI Technical Support](https://ljy-002.github.io/gushi.github.io/gushi/)
+>>[GITI Technical Support](https://ljy-002.github.io/gushi.github.io/gushi/)
 - 💬 Ask me about :
-  >>Questions about Python
+>>Questions about Python
 - 📫 How to reach me :
-  >>By email:
-    >>ljy123ljy123@dingtalk.com
-  >>By shortcut:
-    >>[Web]https://ljy-002.github.io/Web-gitignore.github.io/
+>>By email:
+>>>>ljy123ljy123@dingtalk.com
+>>By shortcut:
+>>>>[Web]https://ljy-002.github.io/Web-gitignore.github.io/
 
 
 -🔭我目前正在研究：
-  >>Python算法
-  >>HTML网页制作
-  >>怎么交更多朋友
+>>Python算法
+>>HTML网页制作
+>>怎么交更多朋友
 -🌱我正在学习：
-  >>理科
-  >>文科
+>>理科
+>>文科
 -👯我正在寻求合作：
-  >>[GITI技术支持](https://ljy-002.github.io/gushi.github.io/gushi/)
+>>[GITI技术支持](https://ljy-002.github.io/gushi.github.io/gushi/)
 -🤔我正在寻求帮助：
-  >>[GITI技术支持](https://ljy-002.github.io/gushi.github.io/gushi/)
+>>[GITI技术支持](https://ljy-002.github.io/gushi.github.io/gushi/)
 -💬问我关于...
-  >>关于Python的问题
+>>关于Python的问题
 -📫如何联络我：
-  >>通过邮箱：
-    >>ljy123ljy123@dingtalk.com
-  >>通过快捷方式：
-    >>[Web]https://ljy-002.github.io/Web-gitignore.github.io/
+>>通过邮箱：
+>>>>ljy123ljy123@dingtalk.com
+>>通过快捷方式：
+>>>>[Web]https://ljy-002.github.io/Web-gitignore.github.io/
