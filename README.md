@@ -2,71 +2,19 @@
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=ljy-002&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljy-002)](https://github.com/anuraghazra/github-readme-stats)
 
+You may think I'm a front-end engineer, but I'm a back-end engineer.
+The above information is somewhat inaccurate, the above statistics are more HTML, but the programming languages I mainly use are Python and C++.
 
-Here are some ideas to get you started:
+I am very interested in information technology, I am currently researching AI and cybersecurity.
 
-🔭 I’m currently working on :
->Python algorithm
+If you want to cooperate with me on a project, or recommend some software or source code to me, please email me at suvgli@dingtalk.com.
 
->HTML page creation
+I would like to chat with you, and you can add me as a friend at some of my accounts:
 
->How to make more friends
+WeChat Number: bclwxh321
 
-🌱 I’m currently learning :
->Science
+Dingtalk Number: suvgli
 
->Liberal Arts
+You can also watch some of my videos on [BiliBili - BCL](https://space.bilibili.com/1543403511). Like you, I often post some videos about programming/information technology
 
-👯 I’m looking to collaborate on :
-
->[GITI Technical Support](https://ljy-002.github.io/gushi.github.io/gushi/)
-
-🤔 I’m looking for help with :
-
->[GITI Technical Support](https://ljy-002.github.io/gushi.github.io/gushi/)
-
-💬 Ask me about :
-
->Questions about Python
-
-📫 How to reach me :
-
->By email:
-
->>ljy123ljy123@dingtalk.com
-
->By shortcut:
-
->>[Web]https://ljy-002.github.io/Web-gitignore.github.io/
-
-**——————————————————————**
-
-🔭我目前正在研究：
->Python算法
-
->HTML网页制作
-
->怎么交更多朋友
-
-🌱我正在学习：
->理科
-
->文科
-
-👯我正在寻求合作：
->[GITI技术支持](https://ljy-002.github.io/gushi.github.io/gushi/)
-
-🤔我正在寻求帮助：
->[GITI技术支持](https://ljy-002.github.io/gushi.github.io/gushi/)
-
-💬问我关于...
->关于Python的问题
-
-📫如何联络我：
->通过邮箱：
-
->>ljy123ljy123@dingtalk.com
-
->通过快捷方式：
-
->>[Web]https://ljy-002.github.io/Web-gitignore.github.io/
+Thank you for reading this passage!
