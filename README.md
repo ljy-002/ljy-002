@@ -24,4 +24,6 @@ Dingtalk Number: suvgli
 
 You can also watch some of my videos on [BiliBili - BCL](https://space.bilibili.com/1543403511). Like you, I often post some videos about programming/information technology
 
+![LJY-Metrics](ljy-002_Metrics.svg)
+
 Thank you for reading this passage!
