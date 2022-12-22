@@ -5,8 +5,11 @@
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&center=true&weight=360&size=24&pause=800&color=6495ED&width=600&height=80&lines=Python+Ai+Developer;Student+Hacker;Enjoy+Learning+Math;Keep+improving"/>      </a>
 </p>
 
-
-[![My github stats](https://github-readme-stats.vercel.app/api?username=ljy-002&show_icons=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljy-002)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=ljy-002&show_icons=true&theme=shades-of-purple">
+  </a>
+</p>
 
 I often write programs in Python, and I also use C++ and HTML.
 
