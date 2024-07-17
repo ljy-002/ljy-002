@@ -19,12 +19,6 @@ I like to do interesting projects like rockets.
 
 If you want to cooperate with me on a project, or recommend some software or source code to me, please email me at suvgli@dingtalk.com.
 
-I would like to chat with you, and you can add me as a friend at some of my accounts:
-
-WeChat Number: bclwxh321
-
-Dingtalk Number: suvgli
-
 You can also watch some of my videos on [BiliBili - BCL](https://space.bilibili.com/1543403511). Like you, I often post some videos about programming/information technology
 
 Thank you for reading this passage!
